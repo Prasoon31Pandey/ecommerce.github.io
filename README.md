@@ -1,2 +1,1 @@
-https://github.com/Prasoon31Pandey/ecommerce.github.io/settings/pages
-4
+https://prasoon31pandey.github.io/ecommerce.github.io/
